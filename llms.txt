@@ -1,0 +1,49 @@
+# Maleo Tools
+
+> Supplier B2B industrial tools & equipment di Indonesia — lini usaha PT Maleo Indonesia Bulava. 734 produk, 6.108 SKU dari STARTOOLS, WGB, TECLOCK, THOR, H.T.D. Harga melalui permintaan penawaran (RFQ); stok dan lead time dikonfirmasi per penawaran.
+
+Maleo Tools melayani pengadaan untuk industri, konstruksi, telekomunikasi, pertambangan, perkebunan, dan maintenance. Pembeli dapat mencari produk berdasarkan nama, brand, kategori, Part Number, atau Mfr.PN, lalu mengirim satu RFQ untuk banyak item sekaligus.
+
+- Website: https://tools.maleobulava.id/
+- Kontak sales (WhatsApp): +628194133990
+- Permintaan penawaran: https://tools.maleobulava.id/#rfq
+- Katalog lengkap (semua SKU): https://tools.maleobulava.id/llms-full.txt
+
+## Kategori
+- [Tool Kit & Tool Set](https://tools.maleobulava.id/#kategori/tool-kit-tool-set): Paket perkakas lengkap untuk mekanik, teknisi listrik, dan workshop. (27 produk)
+- [Tool Storage](https://tools.maleobulava.id/#kategori/penyimpanan-perkakas): Tool trolley, tool box, tool chest, dan tas perkakas. (12 produk)
+- [Wrenches & Spanners](https://tools.maleobulava.id/#kategori/kunci-pas-ring): Kunci kombinasi, kunci ring, kunci pas, kunci pipa, kunci inggris, dan slogging wrench. (65 produk)
+- [Sockets & Drive Tools](https://tools.maleobulava.id/#kategori/kunci-sok-drive-tools): Mata sok, ratchet, extension bar, universal joint, dan adaptor dari 1/4" hingga 1.1/2" drive. (128 produk)
+- [Impact Sockets & Accessories](https://tools.maleobulava.id/#kategori/impact-socket): Mata sok impact dan aksesorinya untuk impact wrench. (59 produk)
+- [Hex & Torx Keys](https://tools.maleobulava.id/#kategori/kunci-l-hex-torx): Kunci L hex, torx, dan spline dalam berbagai ukuran. (28 produk)
+- [Pliers & Cutters](https://tools.maleobulava.id/#kategori/tang-alat-potong): Tang kombinasi, tang potong, circlip plier, crimping, wire stripper, snip, dan bolt cutter. (45 produk)
+- [Screwdrivers & Bits](https://tools.maleobulava.id/#kategori/obeng-bit): Obeng slotted, Phillips, Pozidriv, impact driver, bit set, dan voltage tester. (26 produk)
+- [Hammers](https://tools.maleobulava.id/#kategori/palu): Palu besi, palu tembaga, palu nylon, palu karet, dan sledge hammer. (24 produk)
+- [Chisels & Punches](https://tools.maleobulava.id/#kategori/pahat-punch): Pahat, center punch, pin punch, taper punch, dan wad punch. (21 produk)
+- [Torque Tools](https://tools.maleobulava.id/#kategori/torque-tools): Torque wrench, torque screwdriver, torque multiplier, dan hydraulic torque wrench. (15 produk)
+- [Electrical & Insulated Tools (VDE)](https://tools.maleobulava.id/#kategori/vde-insulated-tools): Perkakas berinsulasi VDE untuk pekerjaan kelistrikan. (35 produk)
+- [Non-Sparking Tools](https://tools.maleobulava.id/#kategori/non-sparking-tools): Perkakas anti percikan (anti spark) untuk area berisiko. (21 produk)
+- [Lifting Equipment](https://tools.maleobulava.id/#kategori/lifting-equipment): Chain block, lever block, plate clamp, webbing sling, shackle, dongkrak, dan engine crane. (12 produk)
+- [Hydraulic Tools](https://tools.maleobulava.id/#kategori/hydraulic-tools): Pompa hidrolik, hydraulic crimping plier, pipe bender, dan bead breaker. (9 produk)
+- [Pneumatic & Power Tools](https://tools.maleobulava.id/#kategori/pneumatic-power-tools): Impact wrench, air ratchet, air grinder, needle scaler, dan perkakas pneumatik. (20 produk)
+- [Measuring Instruments](https://tools.maleobulava.id/#kategori/alat-ukur): Micrometer, dial indicator, caliper, gauge, durometer, dan alat ukur presisi. (72 produk)
+- [Threading, Drilling & Reaming](https://tools.maleobulava.id/#kategori/tap-die-drill): Hand tap, machine tap, round dies, reamer, drill bit, dan carbide burr. (45 produk)
+- [Files & Scrapers](https://tools.maleobulava.id/#kategori/kikir-scraper): Kikir, rasp, scraper, dan pahat kayu. (22 produk)
+- [Automotive & Workshop Tools](https://tools.maleobulava.id/#kategori/otomotif-workshop): Puller, pry bar, alat ban, piston tool, grease pump, ragum, dan peralatan bengkel. (41 produk)
+- [Safety & Lockout](https://tools.maleobulava.id/#kategori/safety-lockout): Full body harness, safety padlock, lockout hasp, dan perlengkapan keselamatan. (7 produk)
+
+## Brand
+- [STARTOOLS](https://tools.maleobulava.id/#brand/startools): Perkakas tangan, kunci, sok, torque tools, lifting, dan peralatan workshop. (310 produk)
+- [WGB](https://tools.maleobulava.id/#brand/wgb): Perkakas tangan Jerman: kunci, sok, tang, obeng, VDE, dan non-sparking tools. (316 produk)
+- [TECLOCK](https://tools.maleobulava.id/#brand/teclock): Alat ukur presisi: dial indicator, thickness gauge, depth gauge, dan durometer. (45 produk)
+- [THOR](https://tools.maleobulava.id/#brand/thor): Palu berbahan tembaga, kuningan, nylon, rawhide, dan karet. (15 produk)
+- [H.T.D](https://tools.maleobulava.id/#brand/htd): Tap, dies, dan perkakas ulir. (36 produk)
+
+## FAQ
+- **Apa itu Maleo Tools?** Maleo Tools adalah lini usaha B2B PT Maleo Indonesia Bulava untuk pengadaan industrial tools, hand tools, alat ukur, lifting equipment, hydraulic tools, dan peralatan workshop bagi perusahaan industri, konstruksi, telekomunikasi, pertambangan, perkebunan, dan maintenance di Indonesia.
+- **Brand apa saja yang tersedia?** Katalog memuat STARTOOLS, WGB, TECLOCK, THOR, H.T.D dengan total 734 produk dan 6.108 SKU.
+- **Mengapa harga tidak ditampilkan di website?** Maleo Tools melayani pembeli B2B dengan model Request for Quotation (RFQ). Harga, ketersediaan stok, ongkos kirim, dan lead time dikonfirmasi dalam Surat Penawaran Harga (SPH) sesuai jumlah dan lokasi pengiriman.
+- **Bagaimana cara memesan?** Cari produk di katalog, pilih varian dan jumlah, tambahkan ke keranjang RFQ, lalu kirim formulir. Nomor RFQ terbit otomatis dan permintaan diteruskan ke tim sales melalui WhatsApp. Setelah penawaran disetujui dan PO diterbitkan, pesanan diproses.
+- **Apakah bisa mencari berdasarkan kode part?** Bisa. Katalog dapat dicari berdasarkan Part Number supplier maupun Mfr.PN, sehingga daftar kebutuhan teknis dari tim procurement bisa langsung dicocokkan.
+- **Apakah stok selalu tersedia?** Ketersediaan dikonfirmasi per SKU saat penawaran dibuat. Sebagian item dapat memerlukan waktu inden sesuai ketersediaan supplier.
+- **Bisakah meminta produk yang tidak ada di katalog?** Bisa. Kirim daftar kebutuhan atau BOQ proyek melalui formulir RFQ atau WhatsApp; tim kami akan membantu mencarikan dan menyiapkan penawarannya.
